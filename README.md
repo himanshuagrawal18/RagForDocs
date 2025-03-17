@@ -39,3 +39,8 @@ Potential future work includes:
 - Multi-Document Question Answering
 - Policy Comparison
 ```
+
+Demo Sample -
+
+![image](https://github.com/user-attachments/assets/012df83a-0d4a-44f2-8399-66b2e97c0681)
+
